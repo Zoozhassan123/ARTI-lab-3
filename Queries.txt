@@ -1,0 +1,23 @@
+?- father(hassan, ali).
+true.
+
+?- father(ali, hussein).
+true.
+
+?- mother(halima, ali).
+true.
+
+?- mother(halima, zahra).
+true.
+
+?- brother(ali, mohammed).
+true.
+
+?- brother(mohammed, ali).
+true.
+
+?- sister(zahra, ali).
+true.
+
+?- sister(zainab, mohammed).
+true.
