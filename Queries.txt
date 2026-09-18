@@ -21,3 +21,15 @@ true.
 
 ?- sister(zainab, mohammed).
 true.
+
+?- father(halima, ali).
+false.
+
+?- brother(zainab, mohammed).
+false.
+
+?- sister(mohammed, zainab).
+false.
+
+?- mother(hassan, ali).
+false.
